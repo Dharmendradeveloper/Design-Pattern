@@ -1,0 +1,7 @@
+package Adapter_Pattern.turkey;
+
+public interface Turkey {
+    void gobble();
+
+    void fly();
+}
